@@ -1,0 +1,3 @@
+[submodule "patient-records"]
+	path = patient-records
+	url = https://github.com/kobvel/patient-records.git
